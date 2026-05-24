@@ -19,10 +19,11 @@ This project performs object detection using YOLOv8 and OpenCV.
 3. Saves detected output image
 4. Displays result using OpenCV
 
+
 ## Installation
 
 ```bash
-pip install -r requirements.txt
+pip install ultralytics opencv-python
 ```
 
 ## Run
